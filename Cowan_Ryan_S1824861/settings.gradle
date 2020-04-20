@@ -1,0 +1,2 @@
+rootProject.name='TrafficRoadWorks'
+include ':app'

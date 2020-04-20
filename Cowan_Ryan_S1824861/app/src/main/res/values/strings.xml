@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TrafficRoadWorks</string>
+    <string name="title_activity_traffic_first_page">TrafficFirstPage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="Near_me">Near Me</string>
+
+    <string name="menu_home">Incidents</string>
+    <string name="menu_gallery">Road Works</string>
+    <string name="menu_slideshow">Planned Road Works</string>
+    <string name="nearme">Near Me</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="incidents">INCIDENT</string>
+    <string name="ten">10</string>
+    <string name="plannedRoadWorks">Planned Road Works</string>
+    <string name="roadWorks">Road Works</string>
+    <string name="Powered_by">Ryan Cowan-S1824861</string>
+    <string name="no_data">No Data Available</string>
+    <string name="todo">todo</string>
+    <string name="titleDataMap">this is a title of all road</string>
+    <string name="please_fill_the_information">please fill the information</string>
+
+    <string name="_5">5 miles</string>
+    <string name="all_events">All Events</string>
+    <string name="_100">100 miles</string>
+    <string name="_50">50 miles</string>
+    <string name="_25">25 miles</string>
+    <string name="_20">20 miles</string>
+    <string name="_15">15 miles</string>
+    <string name="_10">10 miles</string>
+</resources>
